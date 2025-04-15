@@ -1,2 +1,2 @@
-# image-slider
-Untuk di sambungkan ke login pop-up
+# login-pupup
+simple login pop up
